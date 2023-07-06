@@ -2,8 +2,8 @@
 - 👀 Gosto muito de programar
 - 🌱 já faz aproximadamente 1 ano que estou nessa área
 - 💞️ Se precisar de um apoio estamos aí!
-- 📫 Pode chegar até mim pelo Instagram 
-- https://www.instagram.com/thainan_marins/
+- 📫 Visite meu site!
+- https://www.thainanopus.com.br/
 
 <!---
 thainan-marins/thainan-marins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
